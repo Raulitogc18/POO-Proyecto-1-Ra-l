@@ -1,0 +1,3 @@
+public enum Efecto {
+    AUMENTA_ATAQUE, AUMENTA_DEFENSA, DANYA_ENEMIGO
+}
